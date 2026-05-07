@@ -11,7 +11,7 @@ TaskMatrix has evolved from a functional task manager into a professional-grade 
 
 
 ## 📺 Project Demo (Week 16 Update)
-[![Watch the Updated Video Demo](https://img.shields.io/badge/Watch-Updated_Video_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/Sc_cN76wc-A?si=clbaqifEyXfT3B5x)
+[![Watch the Updated Video Demo](https://img.shields.io/badge/Watch-Updated_Video_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/nyrjrEDM-0A?si=hzYtuZoEkmJnueY5)
 
 ---
 
